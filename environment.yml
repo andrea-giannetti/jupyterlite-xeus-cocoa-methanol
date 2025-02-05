@@ -9,7 +9,8 @@ dependencies:
   - numpy==2.1.2
   - pyvista==0.44.2
   - PyYAML==6.0
+  - jupyterlab
   - trame
   - trame-vtk
-  - pyvista[jupyter]
   - vtk
+  - pyvista[jupyter]
